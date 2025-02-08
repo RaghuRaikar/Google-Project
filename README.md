@@ -38,6 +38,7 @@
 📸 Project Preview
 ------------------
 
+![Quality Eats Homepage](./Quality-Eats.png)
 * * * * *
 
 🤝 Contributing
